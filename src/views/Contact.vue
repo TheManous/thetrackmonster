@@ -1,5 +1,5 @@
 <template>
- <h2>Contact one</h2>
+ <h2>Contact KONE</h2>
 </template>
 <style scoped>
 </style>
