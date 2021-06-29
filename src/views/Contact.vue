@@ -1,5 +1,5 @@
 <template>
- <h2>Contact KONE</h2>
+ <h2>Contact lol</h2>
 </template>
 <style scoped>
 </style>
